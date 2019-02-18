@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name MX_Alps_Hybrids)(type Legacy)(uri "${KIPRJMOD}/modules/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrids.lib")(options "")(descr ""))
+  (lib (name Device)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Device.lib)(options "")(descr ""))
+  (lib (name Diode)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Diode.lib)(options "")(descr ""))
+  (lib (name MCU_ST_STM32F0)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/MCU_ST_STM32F0.lib)(options "")(descr ""))
+  (lib (name power)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/power.lib)(options "")(descr ""))
+  (lib (name Regulator_Linear)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Regulator_Linear.lib)(options "")(descr ""))
+  (lib (name Connector)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Connector.lib)(options "")(descr ""))
+  (lib (name Switch)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Switch.lib)(options "")(descr ""))
+)
