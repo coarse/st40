@@ -27,6 +27,8 @@ No frills, open source 40% ortholinear keyboard PCB
 
  - Hit me up on Discord (Peioris#4560) or via e-mail (mfmayol@up.edu.ph)
  
- ## I want my own custom PCB design! Are you open for commissions?
- 
- - Yes! You can contact me through the contacts listed above to know my rates.
+## License
+
+The design is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+![Creative Commons Attribution-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
