@@ -25,7 +25,7 @@ No frills, open source 40% ortholinear keyboard PCB
 
 ## Questions?
 
- - Hit me up on Discord (Peioris#4560) or via e-mail (mfmayol@up.edu.ph)
+ - Hit me up on Discord (Miyo#2210) or via e-mail (mfmayol@up.edu.ph)
  
 ## License
 
